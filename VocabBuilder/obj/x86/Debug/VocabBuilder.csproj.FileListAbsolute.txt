@@ -1,0 +1,95 @@
+C:\Users\krushank\documents\visual studio 2010\Projects\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.Form1.resources
+C:\Users\krushank\documents\visual studio 2010\Projects\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.Properties.Resources.resources
+C:\Users\krushank\documents\visual studio 2010\Projects\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.csproj.GenerateResource.Cache
+C:\Users\krushank\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.csprojResolveAssemblyReference.cache
+C:\Users\krushank\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.exe
+C:\Users\krushank\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.pdb
+C:\Users\krushank\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.exe
+C:\Users\krushank\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.pdb
+C:\Users\krushank\documents\visual studio 2010\Projects\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.dll
+C:\Users\krushank\documents\visual studio 2010\Projects\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.pdb
+C:\Users\Pravin\Desktop\VocabBuilder\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.exe
+C:\Users\Pravin\Desktop\VocabBuilder\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.pdb
+C:\Users\Pravin\Desktop\VocabBuilder\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.exe
+C:\Users\Pravin\Desktop\VocabBuilder\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.pdb
+C:\Users\Pravin\Desktop\VocabBuilder\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.dll
+C:\Users\Pravin\Desktop\VocabBuilder\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.pdb
+C:\Users\Pravin\Desktop\VocabBuilder\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Pravin\Desktop\VocabBuilder\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.Form1.resources
+C:\Users\Pravin\Desktop\VocabBuilder\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.Properties.Resources.resources
+C:\Users\Pravin\Desktop\VocabBuilder\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.csproj.GenerateResource.Cache
+C:\Users\Amanis\Downloads\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.exe
+C:\Users\Amanis\Downloads\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.pdb
+C:\Users\Amanis\Downloads\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.exe
+C:\Users\Amanis\Downloads\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.pdb
+C:\Users\Amanis\Downloads\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.dll
+C:\Users\Amanis\Downloads\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.pdb
+C:\Users\Amanis\Downloads\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Amanis\Downloads\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.Form1.resources
+C:\Users\Amanis\Downloads\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.Properties.Resources.resources
+C:\Users\Amanis\Downloads\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.csproj.GenerateResource.Cache
+C:\Users\krushank\Documents\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.exe
+C:\Users\krushank\Documents\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.pdb
+C:\Users\krushank\Documents\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.dll
+C:\Users\krushank\Documents\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.pdb
+C:\Users\krushank\Documents\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.csprojResolveAssemblyReference.cache
+C:\Users\krushank\Documents\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.VocabManagerForm.resources
+C:\Users\krushank\Documents\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.Properties.Resources.resources
+C:\Users\krushank\Documents\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.csproj.GenerateResource.Cache
+C:\Users\krushank\Documents\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.exe
+C:\Users\krushank\Documents\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.pdb
+\\vm-vsweb.niunt.niu.edu\user$\Z1753144\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.exe
+\\vm-vsweb.niunt.niu.edu\user$\Z1753144\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.pdb
+\\vm-vsweb.niunt.niu.edu\user$\Z1753144\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.exe
+\\vm-vsweb.niunt.niu.edu\user$\Z1753144\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.pdb
+\\vm-vsweb.niunt.niu.edu\user$\Z1753144\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.dll
+\\vm-vsweb.niunt.niu.edu\user$\Z1753144\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.pdb
+\\vm-vsweb.niunt.niu.edu\user$\Z1753144\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vm-vsweb.niunt.niu.edu\user$\Z1753144\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.VocabManagerForm.resources
+\\vm-vsweb.niunt.niu.edu\user$\Z1753144\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.Properties.Resources.resources
+\\vm-vsweb.niunt.niu.edu\user$\Z1753144\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vm-vsweb.niunt.niu.edu\user$\Z1753144\Documents\Visual Studio 2010\Projects\VocabBuilder\VocabBuilder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\krushank\Desktop\.net class projects\finalized\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.exe
+C:\Users\krushank\Desktop\.net class projects\finalized\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.pdb
+C:\Users\krushank\Desktop\.net class projects\finalized\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.dll
+C:\Users\krushank\Desktop\.net class projects\finalized\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.pdb
+C:\Users\krushank\Desktop\.net class projects\finalized\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.csprojResolveAssemblyReference.cache
+C:\Users\krushank\Desktop\.net class projects\finalized\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.VocabManagerForm.resources
+C:\Users\krushank\Desktop\.net class projects\finalized\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.Properties.Resources.resources
+C:\Users\krushank\Desktop\.net class projects\finalized\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.csproj.GenerateResource.Cache
+C:\Users\krushank\Desktop\.net class projects\finalized\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.exe
+C:\Users\krushank\Desktop\.net class projects\finalized\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.pdb
+F:\Desktop\VocabBuilder\VocabBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Desktop\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.VocabManagerForm.resources
+F:\Desktop\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.Properties.Resources.resources
+F:\Desktop\VocabBuilder\VocabBuilder\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Desktop\VocabBuilder\VocabBuilder\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Desktop\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.exe.config
+F:\Desktop\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.exe
+F:\Desktop\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.pdb
+F:\Desktop\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.dll
+F:\Desktop\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.pdb
+F:\Desktop\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.exe
+F:\Desktop\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.pdb
+C:\Users\krushank\Desktop\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.exe.config
+C:\Users\krushank\Desktop\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.exe
+C:\Users\krushank\Desktop\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.pdb
+C:\Users\krushank\Desktop\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.exe
+C:\Users\krushank\Desktop\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.pdb
+C:\Users\krushank\Desktop\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.dll
+C:\Users\krushank\Desktop\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.pdb
+C:\Users\krushank\Desktop\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.csprojResolveAssemblyReference.cache
+C:\Users\krushank\Desktop\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.VocabManagerForm.resources
+C:\Users\krushank\Desktop\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.Properties.Resources.resources
+C:\Users\krushank\Desktop\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.csproj.GenerateResource.Cache
+F:\sem 4\net\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.exe.config
+F:\sem 4\net\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.exe
+F:\sem 4\net\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.pdb
+F:\sem 4\net\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.exe
+F:\sem 4\net\VocabBuilder\VocabBuilder\bin\Debug\VocabBuilder.pdb
+F:\sem 4\net\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.dll
+F:\sem 4\net\VocabBuilder\VocabBuilder\bin\Debug\WordsHelper.pdb
+F:\sem 4\net\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.csprojResolveAssemblyReference.cache
+F:\sem 4\net\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.VocabManagerForm.resources
+F:\sem 4\net\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.Properties.Resources.resources
+F:\sem 4\net\VocabBuilder\VocabBuilder\obj\x86\Debug\VocabBuilder.csproj.GenerateResource.Cache
